@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adam-christian-arroyo-298841287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-christian-arroyo-298841287" height="30" width="40" /></a>
-<a href="https://fb.com/adamchristian.arroyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adamchristian.arroyo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
