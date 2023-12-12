@@ -1,6 +1,6 @@
 [![MasterHead](https://wordpress.epikltd.com/wp-content/uploads/2018/09/cropped-Mechatronics-Baner-1024x288.jpg)](https://AdamArroyo29.29)
 <h1 align="center">Hi 👋, I'm Adam Christian D. Arroyo</h1>
-<h3 align="center">A passionate Mechatronics Engineer from the Philippines</h3>
+<h3 align="center">A Mechatronics Engineering student from the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamarroyo29&label=Profile%20views&color=0e75b6&style=flat" alt="adamarroyo29" /> </p>
